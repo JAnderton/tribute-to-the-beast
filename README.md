@@ -1,4 +1,4 @@
 # TributeToTheBeast.com source
-[![Build Status](https://snap-ci.com/JAnderton/tribute-to-the-beast/branch/master/build_image)](https://snap-ci.com/JAnderton/tribute-to-the-beast/branch/master)
+[![Build Status](https://travis-ci.org/JAnderton/tribute-to-the-beast.svg?branch=master)](https://travis-ci.org/JAnderton/tribute-to-the-beast)
 
 Website source for [tributetothebeast.com](https://tributetothebeast.com)
