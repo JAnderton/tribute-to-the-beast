@@ -1,4 +1,4 @@
-language: node_js
+script: "echo 'no-op. done'"
 
 before_deploy: rm -rf .git .travis.yml LICENSE README.md
 
