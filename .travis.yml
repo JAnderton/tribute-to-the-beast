@@ -7,5 +7,6 @@ deploy:
     secure: Xd5kEDQiVlTGIRVSaTmyshsBaJlrqhj1VQcfK9ciNljJtqGBAab77ZSgycfxjqF5oNbzs7oPAcfyq2pl5L/gag0B+WGDO71h2xahgnMHpvcBuoW4EmQgFFRyKK75qoDWup6hdu55+4x44PBvfrttm/D8jcBGE+ezGKS5qKutCG1yTdPIR3ZOtUumaEbEJKY/sXbJ7PyRIHGZggr9bqkf8+fc7+qNEvuGpOm6som5abPLcIWy49U4ntVPl67SIPY7f5ZK1viSe5oy6K6dcWg496FR+d+cBWJuinA2oyKnDkrEyXWFSlq+mtKKdU1c6H45z+Bw/1IF+MzpO/Q+wa5YqTl2gHnp7JWt4DVn3n6WIQLWU6jgfpM93Ywav8jJk1hD3cVzr8wEewroZVBcRxmpeyqnkWa/M36EfF/7hjP6MCNG6BCUfgEALIC5LNYplqgNbRYzXp2BQN5bzeUiLrrDp/ca2OT+jUjAHFRJ3rhSC14YzT3t63OUIgvXuzUcOsN+Y5XA65GeuwacGLaSgURBQvKlm6x/6QzjayEOCUeYuAo6m10b998G1vD2PNfxZeKwYF8j23J3cN4HLLnEBl2/ONlGDGoTTulybdF5XUW5EWsWhvTw7YUn3WjN2xbzAzb6K5tpC+VUBbtipCfuncTTUPevgyT/UfVjLrnlHHVCKQ8=
   bucket: tributetothebeast.com
   acl: public_read
+  region: ap-southeast-1
   on:
     repo: JAnderton/tribute-to-the-beast
