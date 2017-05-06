@@ -1,7 +1,5 @@
 script: "echo 'no-op. done'"
 
-before_deploy: rm -rf .git .travis.yml LICENSE README.md
-
 deploy:
   provider: s3
   access_key_id: AKIAJDS3VLLFLCKCCIZA
